@@ -62,83 +62,18 @@ h1, h2, h3, h4, h5 {
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
-
-/* Your code starts here! */
-.container {
-	width: 800 px;
-	margin: auto;
-	
-}
-header nav a {
-	/* TB LR*/
-	margin: 0 20px;
-}
-header nav {
-	display: inline-block; 
-	margin-top: 35px;
-}
-header .logo {
-	margin-left: 760px;
-}
-.codesnippet {
-	display: inline-block;
-	margin-left: 945px;
-}
-.cta h1{
-	font-size: 100px;
-	text-align: center;
-	width: 49%;
-	display: block;
-}
-.innovation-div{
-	width: 50%;
-	margin-top: -330px;
-	margin-left: 340px;
-}
-button{
-	width: 130px;
-	height: 40px;
-	margin-left: 125px;
-	margin-bottom: 20px;
-}
-.features{
-	width: 49%;
-	display: inline-block;
-	border: 2px solid red;
-}
-.about{
-	width: 49%;
-	display: inline-block;
-	border: 2px solid red;
-}
-.services{
-	width: 33%;
-	display: inline-block;
-	border: 2px solid red;
-}
-.product{
-	width: 33%;
-	display: inline-block;
-	border: 2px solid red;
-	margin: 2px;
-}
-.vision{
-	width: 33%;
-	display: inline-block;
-	border: 2px solid red;
-}
-.middle-img{
-	display: block;
-	padding: 10px;
-	margin-left:300px;
-}
-footer{
-	text-align: center;
-}
-.contact{
-	text-align: left;
-	
-}
 .main-content{
-	width: 100%;
+    width: 100%;
+    margin: 40px;
+    padding: 20px;
+}
+.para-1{
+    width: 49%;
+    padding: 10px;
+    display: inline-block;
+}
+.para-2{
+    width: 49%;
+    padding: 10px;
+    display: inline-block;
 }
